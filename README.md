@@ -1,4 +1,4 @@
-![Coding octopus holding symbols for Javascript, Ruby, HTML and a laptop](/coding-octopus.png)
+![Coding octopus holding symbols for Javascript, Ruby, HTML and a laptop](https://raw.githubusercontent.com/AmberWilkie/amberwilkie/main/coding-octopus.png)
 
 Hi, I'm Amber. I build software for the interwebs using tools like Javascript and cloud services.
 
